@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework c++ updates N2", "Homework c++ updates N2\Homework c++ updates N2.vcxproj", "{0B75A9C6-F844-42E3-9532-85D2C90FDE4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B75A9C6-F844-42E3-9532-85D2C90FDE4F}.Debug|x64.ActiveCfg = Debug|x64
+		{0B75A9C6-F844-42E3-9532-85D2C90FDE4F}.Debug|x64.Build.0 = Debug|x64
+		{0B75A9C6-F844-42E3-9532-85D2C90FDE4F}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B75A9C6-F844-42E3-9532-85D2C90FDE4F}.Debug|x86.Build.0 = Debug|Win32
+		{0B75A9C6-F844-42E3-9532-85D2C90FDE4F}.Release|x64.ActiveCfg = Release|x64
+		{0B75A9C6-F844-42E3-9532-85D2C90FDE4F}.Release|x64.Build.0 = Release|x64
+		{0B75A9C6-F844-42E3-9532-85D2C90FDE4F}.Release|x86.ActiveCfg = Release|Win32
+		{0B75A9C6-F844-42E3-9532-85D2C90FDE4F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AB12958-0B65-495A-99FE-0E2582E19322}
+	EndGlobalSection
+EndGlobal
